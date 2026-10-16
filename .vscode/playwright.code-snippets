@@ -1,0 +1,27 @@
+{
+  "Playwright test file": {
+    "scope": "typescript",
+    "prefix": "pwtest",
+    "description": "Playwright test template with imports",
+    "body": [
+      "import {test, expect} from '@playwright/test';",
+      "",
+      "test('${1:Verify the webtable}', async ({page}) => {",
+      "",
+      "    $0",
+      "})",
+      ""
+    ]
+  },
+  "Playwright test block": {
+    "scope": "typescript",
+    "prefix": "pwt",
+    "description": "Single Playwright test block (no imports)",
+    "body": [
+      "test('${1:test name}', async ({page}) => {",
+      "",
+      "    $0",
+      "})"
+    ]
+  }
+}

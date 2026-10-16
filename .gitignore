@@ -6,3 +6,12 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.env
+
+
+# Playwright MCP session output
+.playwright-mcp/
+
+# Local authentication state and generated Allure results
+/user-session.json
+/allure-results/

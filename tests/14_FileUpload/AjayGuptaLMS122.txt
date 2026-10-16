@@ -1,0 +1,2 @@
+This is a sample file for Playwright upload testing.
+It is used to verify that file input works correctly.
