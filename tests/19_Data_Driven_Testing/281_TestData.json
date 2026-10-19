@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ajay",
+    "experience": 15,
+    "isTrainer": true,
+    "middleName": "",
+    "skills": [
+      "JavaScript",
+      "Playwright",
+      "Selenium"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "India"
+    }
+  }
+]
